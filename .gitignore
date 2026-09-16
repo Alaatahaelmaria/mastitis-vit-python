@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Local datasets, checkpoints, and generated reports
+data/
+DL_results/
+Mastitis_All_Comp/
+Serial_images/
+*.h5
+*.keras
+*.pt
+*.pth
+*.pkl
+*.csv
+*.xlsx
+*.xls
+*.bmp
+*.jpg
+*.jpeg
+*.png
