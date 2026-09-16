@@ -1,0 +1,7 @@
+comparison,dAUC,DeLong_p_raw,DeLong_p_Holm,sig_Holm,ct_p_raw,ct_p_Holm
+DenseNet-121 vs EfficientNet-B0,0.0751,0.0,0.0,True,0.0155,0.0465
+DenseNet-121 vs Inception-V3,0.0115,0.264996,0.264996,False,0.686343,0.686343
+DenseNet-121 vs MobileNetV2,0.0993,0.0,0.0,True,0.011138,0.044552
+DenseNet-121 vs ResNet-50,0.0257,0.016529,0.033058,True,0.058058,0.116116
+DenseNet-121 vs Swin-Tiny,0.2745,0.0,0.0,True,0.006297,0.031486
+DenseNet-121 vs ViT-B/16,0.2128,0.0,0.0,True,0.003434,0.020607
